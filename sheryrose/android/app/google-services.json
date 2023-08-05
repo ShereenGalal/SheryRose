@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649307016996",
+    "project_id": "sheryrose",
+    "storage_bucket": "sheryrose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649307016996:android:365929fa11bee9d97badb1",
+        "android_client_info": {
+          "package_name": "com.example.sheryrose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649307016996-o36drk4a6laln2kpek46d0agmjpup3rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zV77f-3NZeEJVf3t4yDu10nLjfEBM1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649307016996-o36drk4a6laln2kpek46d0agmjpup3rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
